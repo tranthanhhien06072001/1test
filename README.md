@@ -108,14 +108,14 @@
         fluentd-address: "0.0.0.0:24224"
         tag: nginx 
     ```
-<a name="kq"></a>
+
 ### **2. Kết quả**
-> chạy lệnh
+ chạy lệnh
   ```
   docker-compose -f docker-compose-fluentd.yml up
   ```
 ![docker-compose-fluentd](img/docker-compose-fluentd.png)
-> chạy lệnh
+ chạy lệnh
   ```
   docker-compose up -d
   ```
@@ -125,8 +125,8 @@
 ![kq](img/kq.png)
 ## **III. Reference**
 
-[Elasticsearch là gì?](https://viblo.asia/p/elasticsearch-la-gi-1Je5E8RmlnL)
+https://topdev.vn/blog/elasticsearch-la-gi/
 
-[Kibana](https://levanphu.info/kibana-la-gi-tim-hieu-ve-kibana-va-su-dung-mot-cach-hieu-qua)
+https://viblo.asia/p/elasticsearch-kibana-logstash-tong-quan-cai-dat-va-su-dung-RQqKLRn6l7z
 
-[Fluentd](https://docs.fluentbit.io/manual/about/fluentd-and-fluent-bit)
+https://docs.fluentbit.io/manual/about/fluentd-and-fluent-bit
