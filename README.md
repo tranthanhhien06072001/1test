@@ -119,7 +119,7 @@
   ```
   docker-compose up -d
   ```
-![docker-compose-up(img/docker-compose-up.png)
+![docker-compose-up](img/docker-compose-up.png)
 - truy cập vào 27.71.229.80:5601 để kiểm tra:
 
 ![kq](img/kq.png)
